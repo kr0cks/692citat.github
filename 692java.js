@@ -7,4 +7,4 @@ window.location.href = "https://www.youtube.com/watch?v=c6vwum4EFQw"
   alert ("Det är rätt, han är en get!");
 }
 }
-get();
+get()
