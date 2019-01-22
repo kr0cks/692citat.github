@@ -1,7 +1,3 @@
-window.onload = function() {
-    get();
-}
-
 function get() {
     var jesper = prompt("Vad är jesper för nåt?");
     if (jesper != "get") {
